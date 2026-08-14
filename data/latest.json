@@ -1,0 +1,1990 @@
+{
+  "generatedAt": "2026-08-14T07:03:52.000Z",
+  "status": "fresh",
+  "windows": {
+    "6h": [
+      {
+        "personId": "sunge",
+        "heat": 95,
+        "delta": 3,
+        "sentiment": 1,
+        "samples": 23,
+        "stanceSamples": 13,
+        "hotTerms": [
+          "守夜",
+          "负重前行",
+          "单飞"
+        ],
+        "biliHeat": 100,
+        "biliSentiment": -9,
+        "biliSamples": 17,
+        "biliStanceSamples": 8,
+        "biliContentHeat": 100,
+        "biliContentSentiment": -9,
+        "biliContentSamples": 14,
+        "biliContentStanceSamples": 8,
+        "biliContentHotTerms": [
+          "守夜",
+          "单飞",
+          "反哺"
+        ],
+        "scHeat": 83,
+        "scSentiment": 0,
+        "scSamples": 3,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 92,
+        "tiebaSentiment": 17,
+        "tiebaSamples": 6,
+        "tiebaStanceSamples": 5,
+        "tiebaHotTerms": [
+          "负重前行",
+          "节目效果",
+          "装死人"
+        ]
+      },
+      {
+        "personId": "miaojang",
+        "heat": 88,
+        "delta": 0,
+        "sentiment": 34,
+        "samples": 11,
+        "stanceSamples": 10,
+        "hotTerms": [
+          "反驳",
+          "辛苦",
+          "向上管理"
+        ],
+        "biliHeat": 58,
+        "biliSentiment": 62,
+        "biliSamples": 5,
+        "biliStanceSamples": 5,
+        "biliContentHeat": 75,
+        "biliContentSentiment": 62,
+        "biliContentSamples": 5,
+        "biliContentStanceSamples": 5,
+        "biliContentHotTerms": [
+          "向上管理",
+          "单飞",
+          "守夜"
+        ],
+        "scHeat": 0,
+        "scSentiment": 0,
+        "scSamples": 0,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 100,
+        "tiebaSentiment": 2,
+        "tiebaSamples": 6,
+        "tiebaStanceSamples": 5,
+        "tiebaHotTerms": [
+          "反驳",
+          "辛苦"
+        ]
+      },
+      {
+        "personId": "lishao",
+        "heat": 86,
+        "delta": -6,
+        "sentiment": 28,
+        "samples": 18,
+        "stanceSamples": 10,
+        "hotTerms": [
+          "小游戏",
+          "下棋",
+          "水平"
+        ],
+        "biliHeat": 83,
+        "biliSentiment": 10,
+        "biliSamples": 14,
+        "biliStanceSamples": 7,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 92,
+        "scSentiment": 10,
+        "scSamples": 14,
+        "scStanceSamples": 7,
+        "scHotTerms": [
+          "水平",
+          "五短身材",
+          "老二冠军"
+        ],
+        "tiebaHeat": 75,
+        "tiebaSentiment": 53,
+        "tiebaSamples": 4,
+        "tiebaStanceSamples": 3,
+        "tiebaHotTerms": [
+          "小游戏",
+          "下棋",
+          "高能"
+        ]
+      },
+      {
+        "personId": "saihan",
+        "heat": 83,
+        "delta": -5,
+        "sentiment": 7,
+        "samples": 22,
+        "stanceSamples": 11,
+        "hotTerms": [
+          "小游戏",
+          "下棋",
+          "水平"
+        ],
+        "biliHeat": 92,
+        "biliSentiment": -19,
+        "biliSamples": 19,
+        "biliStanceSamples": 9,
+        "biliContentHeat": 67,
+        "biliContentSentiment": 60,
+        "biliContentSamples": 2,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "爆小鬼"
+        ],
+        "scHeat": 100,
+        "scSentiment": -29,
+        "scSamples": 17,
+        "scStanceSamples": 8,
+        "scHotTerms": [
+          "水平",
+          "职业",
+          "学历"
+        ],
+        "tiebaHeat": 58,
+        "tiebaSentiment": 55,
+        "tiebaSamples": 3,
+        "tiebaStanceSamples": 2,
+        "tiebaHotTerms": [
+          "小游戏",
+          "下棋",
+          "高能"
+        ]
+      },
+      {
+        "personId": "xiaohu",
+        "heat": 82,
+        "delta": 2,
+        "sentiment": 45,
+        "samples": 9,
+        "stanceSamples": 7,
+        "hotTerms": [
+          "守夜",
+          "劳累",
+          "赵大哥"
+        ],
+        "biliHeat": 75,
+        "biliSentiment": 44,
+        "biliSamples": 7,
+        "biliStanceSamples": 5,
+        "biliContentHeat": 92,
+        "biliContentSentiment": 44,
+        "biliContentSamples": 6,
+        "biliContentStanceSamples": 5,
+        "biliContentHotTerms": [
+          "守夜",
+          "劳累",
+          "赵大哥"
+        ],
+        "scHeat": 50,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 67,
+        "tiebaSentiment": 46,
+        "tiebaSamples": 2,
+        "tiebaStanceSamples": 2,
+        "tiebaHotTerms": [
+          "风评"
+        ]
+      },
+      {
+        "personId": "xika",
+        "heat": 81,
+        "delta": 13,
+        "sentiment": 70,
+        "samples": 4,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "点歌",
+          "节目效果"
+        ],
+        "biliHeat": 46,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 71,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "点歌"
+        ],
+        "tiebaHeat": 83,
+        "tiebaSentiment": 70,
+        "tiebaSamples": 3,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "节目效果"
+        ]
+      },
+      {
+        "personId": "xiaotui",
+        "heat": 77,
+        "delta": 0,
+        "sentiment": 28,
+        "samples": 11,
+        "stanceSamples": 8,
+        "hotTerms": [
+          "音乐",
+          "老二冠军",
+          "借口练习"
+        ],
+        "biliHeat": 67,
+        "biliSentiment": 28,
+        "biliSamples": 10,
+        "biliStanceSamples": 8,
+        "biliContentHeat": 83,
+        "biliContentSentiment": 37,
+        "biliContentSamples": 9,
+        "biliContentStanceSamples": 7,
+        "biliContentHotTerms": [
+          "音乐",
+          "学音乐",
+          "摆烂"
+        ],
+        "scHeat": 58,
+        "scSentiment": -50,
+        "scSamples": 1,
+        "scStanceSamples": 1,
+        "scHotTerms": [
+          "老二冠军",
+          "借口练习"
+        ],
+        "tiebaHeat": 50,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 1,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "kaduoke",
+        "heat": 71,
+        "delta": 0,
+        "sentiment": 0,
+        "samples": 1,
+        "stanceSamples": 0,
+        "hotTerms": [
+          "点歌"
+        ],
+        "biliHeat": 46,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 71,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "点歌"
+        ],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "yuyu",
+        "heat": 40,
+        "delta": 0,
+        "sentiment": -30,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "整蛊照片",
+          "不自信"
+        ],
+        "biliHeat": 33,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 42,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 38,
+        "tiebaSentiment": -30,
+        "tiebaSamples": 1,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "整蛊照片",
+          "不自信"
+        ]
+      },
+      {
+        "personId": "mianbao",
+        "heat": 38,
+        "delta": 0,
+        "sentiment": 50,
+        "samples": 1,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "整蛊照片",
+          "自信"
+        ],
+        "biliHeat": 0,
+        "biliSentiment": 0,
+        "biliSamples": 0,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 0,
+        "scSentiment": 0,
+        "scSamples": 0,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 38,
+        "tiebaSentiment": 50,
+        "tiebaSamples": 1,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "整蛊照片",
+          "自信"
+        ]
+      },
+      {
+        "personId": "kid",
+        "heat": 0,
+        "delta": 0,
+        "sentiment": 0,
+        "samples": 0,
+        "stanceSamples": 0,
+        "hotTerms": [],
+        "biliHeat": 0,
+        "biliSentiment": 0,
+        "biliSamples": 0,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 0,
+        "scSentiment": 0,
+        "scSamples": 0,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "quantou",
+        "heat": 0,
+        "delta": 0,
+        "sentiment": 0,
+        "samples": 0,
+        "stanceSamples": 0,
+        "hotTerms": [],
+        "biliHeat": 0,
+        "biliSentiment": 0,
+        "biliSamples": 0,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 0,
+        "scSentiment": 0,
+        "scSamples": 0,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "dv",
+        "heat": 0,
+        "delta": 0,
+        "sentiment": 0,
+        "samples": 0,
+        "stanceSamples": 0,
+        "hotTerms": [],
+        "biliHeat": 0,
+        "biliSentiment": 0,
+        "biliSamples": 0,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 0,
+        "scSentiment": 0,
+        "scSamples": 0,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      }
+    ],
+    "24h": [
+      {
+        "personId": "miaojang",
+        "heat": 90,
+        "delta": 0,
+        "sentiment": 1,
+        "samples": 48,
+        "stanceSamples": 40,
+        "hotTerms": [
+          "守夜",
+          "辛苦",
+          "云南白药"
+        ],
+        "biliHeat": 83,
+        "biliSentiment": 12,
+        "biliSamples": 35,
+        "biliStanceSamples": 28,
+        "biliContentHeat": 92,
+        "biliContentSentiment": 4,
+        "biliContentSamples": 19,
+        "biliContentStanceSamples": 16,
+        "biliContentHotTerms": [
+          "守夜",
+          "云南白药",
+          "巨大进步"
+        ],
+        "scHeat": 75,
+        "scSentiment": 24,
+        "scSamples": 16,
+        "scStanceSamples": 12,
+        "scHotTerms": [
+          "狂c",
+          "心里话",
+          "找补"
+        ],
+        "tiebaHeat": 100,
+        "tiebaSentiment": -19,
+        "tiebaSamples": 13,
+        "tiebaStanceSamples": 12,
+        "tiebaHotTerms": [
+          "公公劲儿",
+          "反驳",
+          "辛苦"
+        ]
+      },
+      {
+        "personId": "sunge",
+        "heat": 87,
+        "delta": 0,
+        "sentiment": -28,
+        "samples": 50,
+        "stanceSamples": 31,
+        "hotTerms": [
+          "守夜",
+          "海斗",
+          "乌鸦"
+        ],
+        "biliHeat": 100,
+        "biliSentiment": -36,
+        "biliSamples": 41,
+        "biliStanceSamples": 24,
+        "biliContentHeat": 100,
+        "biliContentSentiment": -32,
+        "biliContentSamples": 27,
+        "biliContentStanceSamples": 17,
+        "biliContentHotTerms": [
+          "守夜",
+          "乌鸦",
+          "海斗"
+        ],
+        "scHeat": 67,
+        "scSentiment": -45,
+        "scSamples": 14,
+        "scStanceSamples": 7,
+        "scHotTerms": [
+          "复活",
+          "脾气",
+          "头盔"
+        ],
+        "tiebaHeat": 83,
+        "tiebaSentiment": -7,
+        "tiebaSamples": 9,
+        "tiebaStanceSamples": 7,
+        "tiebaHotTerms": [
+          "负重前行",
+          "降级",
+          "节目效果"
+        ]
+      },
+      {
+        "personId": "xiaotui",
+        "heat": 83,
+        "delta": 0,
+        "sentiment": 12,
+        "samples": 46,
+        "stanceSamples": 31,
+        "hotTerms": [
+          "音乐",
+          "老二冠军",
+          "借口练习"
+        ],
+        "biliHeat": 92,
+        "biliSentiment": 0,
+        "biliSamples": 44,
+        "biliStanceSamples": 31,
+        "biliContentHeat": 75,
+        "biliContentSentiment": 37,
+        "biliContentSamples": 9,
+        "biliContentStanceSamples": 7,
+        "biliContentHotTerms": [
+          "音乐",
+          "学音乐",
+          "摆烂"
+        ],
+        "scHeat": 100,
+        "scSentiment": -11,
+        "scSamples": 35,
+        "scStanceSamples": 24,
+        "scHotTerms": [
+          "老二冠军",
+          "借口练习",
+          "海斗"
+        ],
+        "tiebaHeat": 50,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 2,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": [
+          "原班人马"
+        ]
+      },
+      {
+        "personId": "xiaohu",
+        "heat": 81,
+        "delta": 0,
+        "sentiment": 32,
+        "samples": 29,
+        "stanceSamples": 23,
+        "hotTerms": [
+          "守夜",
+          "加班",
+          "劳累"
+        ],
+        "biliHeat": 67,
+        "biliSentiment": 23,
+        "biliSamples": 17,
+        "biliStanceSamples": 11,
+        "biliContentHeat": 83,
+        "biliContentSentiment": 42,
+        "biliContentSamples": 8,
+        "biliContentStanceSamples": 6,
+        "biliContentHotTerms": [
+          "守夜",
+          "阿卡丽",
+          "劳累"
+        ],
+        "scHeat": 58,
+        "scSentiment": 1,
+        "scSamples": 9,
+        "scStanceSamples": 5,
+        "scHotTerms": [
+          "白痴",
+          "季后赛",
+          "韩服第一"
+        ],
+        "tiebaHeat": 92,
+        "tiebaSentiment": 37,
+        "tiebaSamples": 12,
+        "tiebaStanceSamples": 12,
+        "tiebaHotTerms": [
+          "加班",
+          "显眼",
+          "打螺丝"
+        ]
+      },
+      {
+        "personId": "saihan",
+        "heat": 79,
+        "delta": 3,
+        "sentiment": 1,
+        "samples": 24,
+        "stanceSamples": 12,
+        "hotTerms": [
+          "小游戏",
+          "下棋",
+          "水平"
+        ],
+        "biliHeat": 75,
+        "biliSentiment": -19,
+        "biliSamples": 20,
+        "biliStanceSamples": 9,
+        "biliContentHeat": 58,
+        "biliContentSentiment": 60,
+        "biliContentSamples": 2,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "爆小鬼"
+        ],
+        "scHeat": 92,
+        "scSentiment": -29,
+        "scSamples": 18,
+        "scStanceSamples": 8,
+        "scHotTerms": [
+          "水平",
+          "职业",
+          "学历"
+        ],
+        "tiebaHeat": 67,
+        "tiebaSentiment": 22,
+        "tiebaSamples": 4,
+        "tiebaStanceSamples": 3,
+        "tiebaHotTerms": [
+          "小游戏",
+          "下棋",
+          "高能"
+        ]
+      },
+      {
+        "personId": "lishao",
+        "heat": 74,
+        "delta": -5,
+        "sentiment": 28,
+        "samples": 19,
+        "stanceSamples": 10,
+        "hotTerms": [
+          "小游戏",
+          "下棋",
+          "水平"
+        ],
+        "biliHeat": 58,
+        "biliSentiment": 10,
+        "biliSamples": 15,
+        "biliStanceSamples": 7,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 83,
+        "scSentiment": 10,
+        "scSamples": 15,
+        "scStanceSamples": 7,
+        "scHotTerms": [
+          "水平",
+          "五短身材",
+          "老二冠军"
+        ],
+        "tiebaHeat": 58,
+        "tiebaSentiment": 53,
+        "tiebaSamples": 4,
+        "tiebaStanceSamples": 3,
+        "tiebaHotTerms": [
+          "小游戏",
+          "下棋",
+          "高能"
+        ]
+      },
+      {
+        "personId": "xika",
+        "heat": 67,
+        "delta": 17,
+        "sentiment": 70,
+        "samples": 4,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "点歌",
+          "节目效果"
+        ],
+        "biliHeat": 21,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 38,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "点歌"
+        ],
+        "tiebaHeat": 75,
+        "tiebaSentiment": 70,
+        "tiebaSamples": 3,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "节目效果"
+        ]
+      },
+      {
+        "personId": "dv",
+        "heat": 67,
+        "delta": 0,
+        "sentiment": 40,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "守夜",
+          "看电影"
+        ],
+        "biliHeat": 42,
+        "biliSentiment": 40,
+        "biliSamples": 2,
+        "biliStanceSamples": 1,
+        "biliContentHeat": 67,
+        "biliContentSentiment": 40,
+        "biliContentSamples": 2,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "守夜",
+          "看电影"
+        ],
+        "scHeat": 0,
+        "scSentiment": 0,
+        "scSamples": 0,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "yuyu",
+        "heat": 45,
+        "delta": -2,
+        "sentiment": 0,
+        "samples": 8,
+        "stanceSamples": 5,
+        "hotTerms": [
+          "鱼卵",
+          "小游戏",
+          "智力"
+        ],
+        "biliHeat": 50,
+        "biliSentiment": -31,
+        "biliSamples": 5,
+        "biliStanceSamples": 3,
+        "biliContentHeat": 42,
+        "biliContentSentiment": 50,
+        "biliContentSamples": 1,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "鱼卵"
+        ],
+        "scHeat": 50,
+        "scSentiment": -67,
+        "scSamples": 4,
+        "scStanceSamples": 2,
+        "scHotTerms": [
+          "小游戏",
+          "智力"
+        ],
+        "tiebaHeat": 42,
+        "tiebaSentiment": 18,
+        "tiebaSamples": 3,
+        "tiebaStanceSamples": 2,
+        "tiebaHotTerms": [
+          "整蛊照片",
+          "不自信",
+          "吴彦祖"
+        ]
+      },
+      {
+        "personId": "kid",
+        "heat": 40,
+        "delta": 23,
+        "sentiment": 0,
+        "samples": 2,
+        "stanceSamples": 0,
+        "hotTerms": [
+          "退役"
+        ],
+        "biliHeat": 33,
+        "biliSentiment": 0,
+        "biliSamples": 2,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 50,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 1,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 25,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "退役"
+        ],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "mianbao",
+        "heat": 33,
+        "delta": -4,
+        "sentiment": 55,
+        "samples": 2,
+        "stanceSamples": 2,
+        "hotTerms": [
+          "整蛊照片",
+          "自信"
+        ],
+        "biliHeat": 0,
+        "biliSentiment": 0,
+        "biliSamples": 0,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 0,
+        "scSentiment": 0,
+        "scSamples": 0,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 33,
+        "tiebaSentiment": 55,
+        "tiebaSamples": 2,
+        "tiebaStanceSamples": 2,
+        "tiebaHotTerms": [
+          "整蛊照片",
+          "自信"
+        ]
+      },
+      {
+        "personId": "kaduoke",
+        "heat": 28,
+        "delta": -1,
+        "sentiment": -50,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "点歌",
+          "海斗"
+        ],
+        "biliHeat": 21,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 38,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "点歌"
+        ],
+        "tiebaHeat": 21,
+        "tiebaSentiment": -50,
+        "tiebaSamples": 1,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "海斗"
+        ]
+      },
+      {
+        "personId": "quantou",
+        "heat": 19,
+        "delta": 11,
+        "sentiment": -50,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "海斗"
+        ],
+        "biliHeat": 8,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 17,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 21,
+        "tiebaSentiment": -50,
+        "tiebaSamples": 1,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "海斗"
+        ]
+      }
+    ],
+    "3d": [
+      {
+        "personId": "miaojang",
+        "heat": 95,
+        "delta": 0,
+        "sentiment": 3,
+        "samples": 79,
+        "stanceSamples": 57,
+        "hotTerms": [
+          "守夜",
+          "辛苦",
+          "云南白药"
+        ],
+        "biliHeat": 92,
+        "biliSentiment": 24,
+        "biliSamples": 63,
+        "biliStanceSamples": 43,
+        "biliContentHeat": 92,
+        "biliContentSentiment": 4,
+        "biliContentSamples": 19,
+        "biliContentStanceSamples": 16,
+        "biliContentHotTerms": [
+          "守夜",
+          "云南白药",
+          "巨大进步"
+        ],
+        "scHeat": 92,
+        "scSentiment": 37,
+        "scSamples": 44,
+        "scStanceSamples": 27,
+        "scHotTerms": [
+          "守夜",
+          "狂c",
+          "心里话"
+        ],
+        "tiebaHeat": 100,
+        "tiebaSentiment": -27,
+        "tiebaSamples": 16,
+        "tiebaStanceSamples": 14,
+        "tiebaHotTerms": [
+          "公公劲儿",
+          "反驳",
+          "辛苦"
+        ]
+      },
+      {
+        "personId": "sunge",
+        "heat": 93,
+        "delta": 0,
+        "sentiment": -27,
+        "samples": 70,
+        "stanceSamples": 39,
+        "hotTerms": [
+          "守夜",
+          "海斗",
+          "乌鸦"
+        ],
+        "biliHeat": 100,
+        "biliSentiment": -32,
+        "biliSamples": 60,
+        "biliStanceSamples": 31,
+        "biliContentHeat": 100,
+        "biliContentSentiment": -33,
+        "biliContentSamples": 29,
+        "biliContentStanceSamples": 18,
+        "biliContentHotTerms": [
+          "守夜",
+          "乌鸦",
+          "海斗"
+        ],
+        "scHeat": 83,
+        "scSentiment": -32,
+        "scSamples": 31,
+        "scStanceSamples": 13,
+        "scHotTerms": [
+          "复活",
+          "脾气",
+          "头盔"
+        ],
+        "tiebaHeat": 92,
+        "tiebaSentiment": -12,
+        "tiebaSamples": 10,
+        "tiebaStanceSamples": 8,
+        "tiebaHotTerms": [
+          "负重前行",
+          "降级",
+          "节目效果"
+        ]
+      },
+      {
+        "personId": "xiaotui",
+        "heat": 83,
+        "delta": 0,
+        "sentiment": 16,
+        "samples": 53,
+        "stanceSamples": 36,
+        "hotTerms": [
+          "音乐",
+          "老二冠军",
+          "借口练习"
+        ],
+        "biliHeat": 83,
+        "biliSentiment": 5,
+        "biliSamples": 51,
+        "biliStanceSamples": 36,
+        "biliContentHeat": 75,
+        "biliContentSentiment": 39,
+        "biliContentSamples": 10,
+        "biliContentStanceSamples": 8,
+        "biliContentHotTerms": [
+          "音乐",
+          "学音乐",
+          "摆烂"
+        ],
+        "scHeat": 100,
+        "scSentiment": -5,
+        "scSamples": 41,
+        "scStanceSamples": 28,
+        "scHotTerms": [
+          "老二冠军",
+          "借口练习",
+          "海斗"
+        ],
+        "tiebaHeat": 50,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 2,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": [
+          "原班人马"
+        ]
+      },
+      {
+        "personId": "xiaohu",
+        "heat": 75,
+        "delta": 0,
+        "sentiment": 36,
+        "samples": 34,
+        "stanceSamples": 27,
+        "hotTerms": [
+          "守夜",
+          "加班",
+          "劳累"
+        ],
+        "biliHeat": 75,
+        "biliSentiment": 32,
+        "biliSamples": 22,
+        "biliStanceSamples": 15,
+        "biliContentHeat": 83,
+        "biliContentSentiment": 50,
+        "biliContentSamples": 11,
+        "biliContentStanceSamples": 8,
+        "biliContentHotTerms": [
+          "守夜",
+          "阿卡丽",
+          "劳累"
+        ],
+        "scHeat": 50,
+        "scSentiment": 11,
+        "scSamples": 11,
+        "scStanceSamples": 7,
+        "scHotTerms": [
+          "白痴",
+          "季后赛",
+          "韩服第一"
+        ],
+        "tiebaHeat": 83,
+        "tiebaSentiment": 37,
+        "tiebaSamples": 12,
+        "tiebaStanceSamples": 12,
+        "tiebaHotTerms": [
+          "加班",
+          "显眼",
+          "打螺丝"
+        ]
+      },
+      {
+        "personId": "saihan",
+        "heat": 73,
+        "delta": -1,
+        "sentiment": 3,
+        "samples": 30,
+        "stanceSamples": 16,
+        "hotTerms": [
+          "小游戏",
+          "下棋",
+          "水平"
+        ],
+        "biliHeat": 67,
+        "biliSentiment": 4,
+        "biliSamples": 25,
+        "biliStanceSamples": 12,
+        "biliContentHeat": 67,
+        "biliContentSentiment": 60,
+        "biliContentSamples": 3,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "爆小鬼",
+          "离开"
+        ],
+        "scHeat": 75,
+        "scSentiment": -2,
+        "scSamples": 22,
+        "scStanceSamples": 11,
+        "scHotTerms": [
+          "水平",
+          "职业",
+          "学历"
+        ],
+        "tiebaHeat": 75,
+        "tiebaSentiment": -8,
+        "tiebaSamples": 5,
+        "tiebaStanceSamples": 4,
+        "tiebaHotTerms": [
+          "小游戏",
+          "下棋",
+          "高能"
+        ]
+      },
+      {
+        "personId": "yuyu",
+        "heat": 58,
+        "delta": -1,
+        "sentiment": 17,
+        "samples": 26,
+        "stanceSamples": 9,
+        "hotTerms": [
+          "新游戏",
+          "鱼卵",
+          "巡查外挂"
+        ],
+        "biliHeat": 58,
+        "biliSentiment": 10,
+        "biliSamples": 23,
+        "biliStanceSamples": 7,
+        "biliContentHeat": 42,
+        "biliContentSentiment": 50,
+        "biliContentSamples": 1,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "鱼卵"
+        ],
+        "scHeat": 67,
+        "scSentiment": 5,
+        "scSamples": 22,
+        "scStanceSamples": 6,
+        "scHotTerms": [
+          "新游戏",
+          "巡查外挂",
+          "小游戏"
+        ],
+        "tiebaHeat": 42,
+        "tiebaSentiment": 18,
+        "tiebaSamples": 3,
+        "tiebaStanceSamples": 2,
+        "tiebaHotTerms": [
+          "整蛊照片",
+          "不自信",
+          "吴彦祖"
+        ]
+      },
+      {
+        "personId": "lishao",
+        "heat": 58,
+        "delta": -5,
+        "sentiment": 28,
+        "samples": 19,
+        "stanceSamples": 10,
+        "hotTerms": [
+          "小游戏",
+          "下棋",
+          "水平"
+        ],
+        "biliHeat": 50,
+        "biliSentiment": 10,
+        "biliSamples": 15,
+        "biliStanceSamples": 7,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 58,
+        "scSentiment": 10,
+        "scSamples": 15,
+        "scStanceSamples": 7,
+        "scHotTerms": [
+          "水平",
+          "五短身材",
+          "老二冠军"
+        ],
+        "tiebaHeat": 58,
+        "tiebaSentiment": 53,
+        "tiebaSamples": 4,
+        "tiebaStanceSamples": 3,
+        "tiebaHotTerms": [
+          "小游戏",
+          "下棋",
+          "高能"
+        ]
+      },
+      {
+        "personId": "dv",
+        "heat": 58,
+        "delta": 0,
+        "sentiment": 40,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "守夜",
+          "看电影"
+        ],
+        "biliHeat": 25,
+        "biliSentiment": 40,
+        "biliSamples": 2,
+        "biliStanceSamples": 1,
+        "biliContentHeat": 58,
+        "biliContentSentiment": 40,
+        "biliContentSamples": 2,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "守夜",
+          "看电影"
+        ],
+        "scHeat": 0,
+        "scSentiment": 0,
+        "scSamples": 0,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "xika",
+        "heat": 56,
+        "delta": 8,
+        "sentiment": 70,
+        "samples": 5,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "点歌",
+          "节目效果",
+          "真实"
+        ],
+        "biliHeat": 17,
+        "biliSentiment": 0,
+        "biliSamples": 2,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 33,
+        "scSentiment": 0,
+        "scSamples": 2,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "点歌",
+          "真实"
+        ],
+        "tiebaHeat": 67,
+        "tiebaSentiment": 70,
+        "tiebaSamples": 3,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "节目效果"
+        ]
+      },
+      {
+        "personId": "mianbao",
+        "heat": 39,
+        "delta": 0,
+        "sentiment": 55,
+        "samples": 10,
+        "stanceSamples": 2,
+        "hotTerms": [
+          "翻译",
+          "编程基础",
+          "起飞"
+        ],
+        "biliHeat": 42,
+        "biliSentiment": 0,
+        "biliSamples": 8,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 42,
+        "scSentiment": 0,
+        "scSamples": 8,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "翻译",
+          "编程基础",
+          "起飞"
+        ],
+        "tiebaHeat": 33,
+        "tiebaSentiment": 55,
+        "tiebaSamples": 2,
+        "tiebaStanceSamples": 2,
+        "tiebaHotTerms": [
+          "整蛊照片",
+          "自信"
+        ]
+      },
+      {
+        "personId": "kid",
+        "heat": 36,
+        "delta": 11,
+        "sentiment": 0,
+        "samples": 3,
+        "stanceSamples": 0,
+        "hotTerms": [
+          "退役",
+          "小粉丝"
+        ],
+        "biliHeat": 33,
+        "biliSentiment": 0,
+        "biliSamples": 3,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 50,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 1,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 25,
+        "scSentiment": 0,
+        "scSamples": 2,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "退役",
+          "小粉丝"
+        ],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "kaduoke",
+        "heat": 19,
+        "delta": 2,
+        "sentiment": -50,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "点歌",
+          "海斗"
+        ],
+        "biliHeat": 8,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 17,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "点歌"
+        ],
+        "tiebaHeat": 21,
+        "tiebaSentiment": -50,
+        "tiebaSamples": 1,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "海斗"
+        ]
+      },
+      {
+        "personId": "quantou",
+        "heat": 16,
+        "delta": 8,
+        "sentiment": -50,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "海斗"
+        ],
+        "biliHeat": 0,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 8,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 21,
+        "tiebaSentiment": -50,
+        "tiebaSamples": 1,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "海斗"
+        ]
+      }
+    ],
+    "7d": [
+      {
+        "personId": "miaojang",
+        "heat": 95,
+        "delta": 0,
+        "sentiment": 3,
+        "samples": 79,
+        "stanceSamples": 57,
+        "hotTerms": [
+          "守夜",
+          "辛苦",
+          "云南白药"
+        ],
+        "biliHeat": 92,
+        "biliSentiment": 24,
+        "biliSamples": 63,
+        "biliStanceSamples": 43,
+        "biliContentHeat": 92,
+        "biliContentSentiment": 4,
+        "biliContentSamples": 19,
+        "biliContentStanceSamples": 16,
+        "biliContentHotTerms": [
+          "守夜",
+          "云南白药",
+          "巨大进步"
+        ],
+        "scHeat": 92,
+        "scSentiment": 37,
+        "scSamples": 44,
+        "scStanceSamples": 27,
+        "scHotTerms": [
+          "守夜",
+          "狂c",
+          "心里话"
+        ],
+        "tiebaHeat": 100,
+        "tiebaSentiment": -27,
+        "tiebaSamples": 16,
+        "tiebaStanceSamples": 14,
+        "tiebaHotTerms": [
+          "公公劲儿",
+          "反驳",
+          "辛苦"
+        ]
+      },
+      {
+        "personId": "sunge",
+        "heat": 93,
+        "delta": 0,
+        "sentiment": -27,
+        "samples": 70,
+        "stanceSamples": 39,
+        "hotTerms": [
+          "守夜",
+          "海斗",
+          "乌鸦"
+        ],
+        "biliHeat": 100,
+        "biliSentiment": -32,
+        "biliSamples": 60,
+        "biliStanceSamples": 31,
+        "biliContentHeat": 100,
+        "biliContentSentiment": -33,
+        "biliContentSamples": 29,
+        "biliContentStanceSamples": 18,
+        "biliContentHotTerms": [
+          "守夜",
+          "乌鸦",
+          "海斗"
+        ],
+        "scHeat": 83,
+        "scSentiment": -32,
+        "scSamples": 31,
+        "scStanceSamples": 13,
+        "scHotTerms": [
+          "复活",
+          "脾气",
+          "头盔"
+        ],
+        "tiebaHeat": 92,
+        "tiebaSentiment": -12,
+        "tiebaSamples": 10,
+        "tiebaStanceSamples": 8,
+        "tiebaHotTerms": [
+          "负重前行",
+          "降级",
+          "节目效果"
+        ]
+      },
+      {
+        "personId": "xiaotui",
+        "heat": 83,
+        "delta": 0,
+        "sentiment": 16,
+        "samples": 53,
+        "stanceSamples": 36,
+        "hotTerms": [
+          "音乐",
+          "老二冠军",
+          "借口练习"
+        ],
+        "biliHeat": 83,
+        "biliSentiment": 5,
+        "biliSamples": 51,
+        "biliStanceSamples": 36,
+        "biliContentHeat": 75,
+        "biliContentSentiment": 39,
+        "biliContentSamples": 10,
+        "biliContentStanceSamples": 8,
+        "biliContentHotTerms": [
+          "音乐",
+          "学音乐",
+          "摆烂"
+        ],
+        "scHeat": 100,
+        "scSentiment": -5,
+        "scSamples": 41,
+        "scStanceSamples": 28,
+        "scHotTerms": [
+          "老二冠军",
+          "借口练习",
+          "海斗"
+        ],
+        "tiebaHeat": 50,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 2,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": [
+          "原班人马"
+        ]
+      },
+      {
+        "personId": "xiaohu",
+        "heat": 75,
+        "delta": 0,
+        "sentiment": 36,
+        "samples": 34,
+        "stanceSamples": 27,
+        "hotTerms": [
+          "守夜",
+          "加班",
+          "劳累"
+        ],
+        "biliHeat": 75,
+        "biliSentiment": 32,
+        "biliSamples": 22,
+        "biliStanceSamples": 15,
+        "biliContentHeat": 83,
+        "biliContentSentiment": 50,
+        "biliContentSamples": 11,
+        "biliContentStanceSamples": 8,
+        "biliContentHotTerms": [
+          "守夜",
+          "阿卡丽",
+          "劳累"
+        ],
+        "scHeat": 50,
+        "scSentiment": 11,
+        "scSamples": 11,
+        "scStanceSamples": 7,
+        "scHotTerms": [
+          "白痴",
+          "季后赛",
+          "韩服第一"
+        ],
+        "tiebaHeat": 83,
+        "tiebaSentiment": 37,
+        "tiebaSamples": 12,
+        "tiebaStanceSamples": 12,
+        "tiebaHotTerms": [
+          "加班",
+          "显眼",
+          "打螺丝"
+        ]
+      },
+      {
+        "personId": "saihan",
+        "heat": 73,
+        "delta": -1,
+        "sentiment": 3,
+        "samples": 30,
+        "stanceSamples": 16,
+        "hotTerms": [
+          "小游戏",
+          "下棋",
+          "水平"
+        ],
+        "biliHeat": 67,
+        "biliSentiment": 4,
+        "biliSamples": 25,
+        "biliStanceSamples": 12,
+        "biliContentHeat": 67,
+        "biliContentSentiment": 60,
+        "biliContentSamples": 3,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "爆小鬼",
+          "离开"
+        ],
+        "scHeat": 75,
+        "scSentiment": -2,
+        "scSamples": 22,
+        "scStanceSamples": 11,
+        "scHotTerms": [
+          "水平",
+          "职业",
+          "学历"
+        ],
+        "tiebaHeat": 75,
+        "tiebaSentiment": -8,
+        "tiebaSamples": 5,
+        "tiebaStanceSamples": 4,
+        "tiebaHotTerms": [
+          "小游戏",
+          "下棋",
+          "高能"
+        ]
+      },
+      {
+        "personId": "yuyu",
+        "heat": 58,
+        "delta": -1,
+        "sentiment": 17,
+        "samples": 26,
+        "stanceSamples": 9,
+        "hotTerms": [
+          "新游戏",
+          "鱼卵",
+          "巡查外挂"
+        ],
+        "biliHeat": 58,
+        "biliSentiment": 10,
+        "biliSamples": 23,
+        "biliStanceSamples": 7,
+        "biliContentHeat": 42,
+        "biliContentSentiment": 50,
+        "biliContentSamples": 1,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "鱼卵"
+        ],
+        "scHeat": 67,
+        "scSentiment": 5,
+        "scSamples": 22,
+        "scStanceSamples": 6,
+        "scHotTerms": [
+          "新游戏",
+          "巡查外挂",
+          "小游戏"
+        ],
+        "tiebaHeat": 42,
+        "tiebaSentiment": 18,
+        "tiebaSamples": 3,
+        "tiebaStanceSamples": 2,
+        "tiebaHotTerms": [
+          "整蛊照片",
+          "不自信",
+          "吴彦祖"
+        ]
+      },
+      {
+        "personId": "lishao",
+        "heat": 58,
+        "delta": -5,
+        "sentiment": 28,
+        "samples": 19,
+        "stanceSamples": 10,
+        "hotTerms": [
+          "小游戏",
+          "下棋",
+          "水平"
+        ],
+        "biliHeat": 50,
+        "biliSentiment": 10,
+        "biliSamples": 15,
+        "biliStanceSamples": 7,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 58,
+        "scSentiment": 10,
+        "scSamples": 15,
+        "scStanceSamples": 7,
+        "scHotTerms": [
+          "水平",
+          "五短身材",
+          "老二冠军"
+        ],
+        "tiebaHeat": 58,
+        "tiebaSentiment": 53,
+        "tiebaSamples": 4,
+        "tiebaStanceSamples": 3,
+        "tiebaHotTerms": [
+          "小游戏",
+          "下棋",
+          "高能"
+        ]
+      },
+      {
+        "personId": "dv",
+        "heat": 58,
+        "delta": 0,
+        "sentiment": 40,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "守夜",
+          "看电影"
+        ],
+        "biliHeat": 25,
+        "biliSentiment": 40,
+        "biliSamples": 2,
+        "biliStanceSamples": 1,
+        "biliContentHeat": 58,
+        "biliContentSentiment": 40,
+        "biliContentSamples": 2,
+        "biliContentStanceSamples": 1,
+        "biliContentHotTerms": [
+          "守夜",
+          "看电影"
+        ],
+        "scHeat": 0,
+        "scSentiment": 0,
+        "scSamples": 0,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "xika",
+        "heat": 56,
+        "delta": 8,
+        "sentiment": 70,
+        "samples": 5,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "点歌",
+          "节目效果",
+          "真实"
+        ],
+        "biliHeat": 17,
+        "biliSentiment": 0,
+        "biliSamples": 2,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 33,
+        "scSentiment": 0,
+        "scSamples": 2,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "点歌",
+          "真实"
+        ],
+        "tiebaHeat": 67,
+        "tiebaSentiment": 70,
+        "tiebaSamples": 3,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "节目效果"
+        ]
+      },
+      {
+        "personId": "mianbao",
+        "heat": 39,
+        "delta": 0,
+        "sentiment": 55,
+        "samples": 10,
+        "stanceSamples": 2,
+        "hotTerms": [
+          "翻译",
+          "编程基础",
+          "起飞"
+        ],
+        "biliHeat": 42,
+        "biliSentiment": 0,
+        "biliSamples": 8,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 42,
+        "scSentiment": 0,
+        "scSamples": 8,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "翻译",
+          "编程基础",
+          "起飞"
+        ],
+        "tiebaHeat": 33,
+        "tiebaSentiment": 55,
+        "tiebaSamples": 2,
+        "tiebaStanceSamples": 2,
+        "tiebaHotTerms": [
+          "整蛊照片",
+          "自信"
+        ]
+      },
+      {
+        "personId": "kid",
+        "heat": 36,
+        "delta": 11,
+        "sentiment": 0,
+        "samples": 3,
+        "stanceSamples": 0,
+        "hotTerms": [
+          "退役",
+          "小粉丝"
+        ],
+        "biliHeat": 33,
+        "biliSentiment": 0,
+        "biliSamples": 3,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 50,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 1,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 25,
+        "scSentiment": 0,
+        "scSamples": 2,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "退役",
+          "小粉丝"
+        ],
+        "tiebaHeat": 0,
+        "tiebaSentiment": 0,
+        "tiebaSamples": 0,
+        "tiebaStanceSamples": 0,
+        "tiebaHotTerms": []
+      },
+      {
+        "personId": "kaduoke",
+        "heat": 19,
+        "delta": 2,
+        "sentiment": -50,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "点歌",
+          "海斗"
+        ],
+        "biliHeat": 8,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 17,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [
+          "点歌"
+        ],
+        "tiebaHeat": 21,
+        "tiebaSentiment": -50,
+        "tiebaSamples": 1,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "海斗"
+        ]
+      },
+      {
+        "personId": "quantou",
+        "heat": 16,
+        "delta": 8,
+        "sentiment": -50,
+        "samples": 2,
+        "stanceSamples": 1,
+        "hotTerms": [
+          "海斗"
+        ],
+        "biliHeat": 0,
+        "biliSentiment": 0,
+        "biliSamples": 1,
+        "biliStanceSamples": 0,
+        "biliContentHeat": 0,
+        "biliContentSentiment": 0,
+        "biliContentSamples": 0,
+        "biliContentStanceSamples": 0,
+        "biliContentHotTerms": [],
+        "scHeat": 8,
+        "scSentiment": 0,
+        "scSamples": 1,
+        "scStanceSamples": 0,
+        "scHotTerms": [],
+        "tiebaHeat": 21,
+        "tiebaSentiment": -50,
+        "tiebaSamples": 1,
+        "tiebaStanceSamples": 1,
+        "tiebaHotTerms": [
+          "海斗"
+        ]
+      }
+    ]
+  }
+}
